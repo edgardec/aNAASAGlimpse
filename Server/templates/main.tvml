@@ -1,0 +1,35 @@
+/*
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+
+Abstract:
+A main template displays a full-screen image with a menu along the bottom. It’s commonly used for the home screen of a movie, with menu options for playing the movie and accessing chapters or extras.
+*/
+var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+  <mainTemplate>
+    <background>
+      <img src="${this.BASEURL}images/JourneyToMars/MapofMarGravity.png" />
+      <img src="${this.BASEURL}images/JourneyToMars/mariner02.gif" />
+      <img src="${this.BASEURL}images/JourneyToMars/marte.jpg" />
+      <img src="${this.BASEURL}images/JourneyToMars/pia20316-main_take6dune.jpg" />
+      <audio>
+        <asset id="main_audio" src="${this.BASEURL}audio/03-07-11_STS-133_FD12_Crew_Wakeup.mp3" keyDelivery="itunes" />
+      </audio>
+    </background>
+    <menuBar>
+      <section>
+        <menuItem>
+          <title>Tab 1</title>
+        </menuItem>
+        <menuItem>
+          <title>Tab 2</title>
+        </menuItem>
+        <menuItem>
+          <title>Tab 3</title>
+        </menuItem>
+      </section>
+    </menuBar>
+  </mainTemplate>
+</document>`
+}

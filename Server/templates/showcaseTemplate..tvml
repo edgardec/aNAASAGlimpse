@@ -1,0 +1,70 @@
+/*
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+
+Abstract:
+Use the showcase template to display a row of images with descriptions associated with each image; for example, displaying a set of screenshots to promote a movie.
+
+Users can scroll between images. When an image comes into focus, the size of the image is increased to be slightly larger than the other images.
+*/
+var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+   <showcaseTemplate>
+      <background>
+         <img src="${this.BASEURL}images/History/24305757729_c6a124a36f_o.jpg" />
+      </background>
+      <banner>
+         <title>Scenes</title>
+         <row>
+            <button>
+               <text>Slideshow</text>
+            </button>
+            <button>
+               <text>Screensaver</text>
+            </button>
+         </row>
+      </banner>
+      <carousel>
+         <section>
+           <lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/mariner02.gif" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/j2m-shareable.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/MarsExplorationRover.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/marte.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia19679_msl_navcam_00997_048_1570_left_wmask.jpg" width="450" height="450" />
+  		</lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia19807_flat-horizon-monday.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia19820_sol4108_l257f.jpg" width="450" height="450" />
+        </lockup>
+        <lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia19920_bigsky-selfie.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia20285-1041.jpg" width="450" height="450" />
+  
+        </lockup>
+<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia20316-main_take6dune.jpg" width="450" height="450" />
+        </lockup>
+	<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/pia20461.jpg" width="450" height="450" />
+        </lockup>
+		<lockup>
+          <img src="${this.BASEURL}images/JourneyToMars/ssc-2015-00520.jpg" width="450" height="450" />
+        </lockup>
+         </section>
+      </carousel>
+   </showcaseTemplate>
+</document>`
+}

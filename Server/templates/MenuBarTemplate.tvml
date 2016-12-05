@@ -1,0 +1,24 @@
+var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <menuBarTemplate>
+        <menuBar>
+            <menuItem template="${this.BASEURL}templates/main.tvml" presentation="menuBarItemPresenter">
+                <title>mainTemplate</title>
+            </menuItem>
+            <menuItem template="${this.BASEURL}templates/catalogTemplate.tvml" presentation="menuBarItemPresenter">
+                <title>catalogTemplate</title>
+            </menuItem>
+            <menuItem template="${this.BASEURL}templates/showcaseTemplate..tvml" presentation="menuBarItemPresenter">
+                <title>showcaseTemplate</title>
+            </menuItem>
+  <menuItem template="${this.BASEURL}templates/stackTemplate.tvml" presentation="menuBarItemPresenter">
+                <title>stackTemplate</title> 
+                </menuItem>
+    <menuItem template="${this.BASEURL}templates/paradeTemplate.tvml" presentation="menuBarItemPresenter">
+                <title>paradeTemplate</title> 
+                </menuItem>            
+                         
+            </menuBar>
+    </menuBarTemplate>
+</document>`
+}

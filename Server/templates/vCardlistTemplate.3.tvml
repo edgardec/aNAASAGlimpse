@@ -1,0 +1,223 @@
+var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?><document>  <listTemplate>						<banner>							<title>Contacts</title>						</banner>						<list>							<header>								<title>Names</title>							</header>							<section><listItemLockup><title> </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/.jpg"/>
+<description>
+<title></title>
+Conocido como Apple Inc.
+Trabaja en Apple Inc.;
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>ArduinoGerman </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/ArduinoGerman.jpg"/>
+<description>
+<title>ArduinoGerman</title>
+Conocido como German Arduino
+EMAIL gsa@arsol.net
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>BortnikSebastián </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/BortnikSebastián.jpg"/>
+<description>
+<title>BortnikSebastián</title>
+Conocido como Sebastián Bortnik
+Trabaja en ESET Latinoamérica;
+EMAIL sepitasepon@yahoo.com.ar
+FECHA NACIMIENTO 1984-08-24
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>BourdaFederico </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/BourdaFederico.jpg"/>
+<description>
+<title>BourdaFederico</title>
+Conocido como Federico Bourda
+EMAIL alvear 580
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>BrumleyTroy </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/BrumleyTroy.jpg"/>
+<description>
+<title>BrumleyTroy</title>
+Conocido como Troy Brumley
+Trabaja en Cincom Systems;
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>CalvagnaFederico </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/CalvagnaFederico.jpg"/>
+<description>
+<title>CalvagnaFederico</title>
+Conocido como Federico Calvagna
+EMAIL fede.93c@hotmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>CapriCesar </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/CapriCesar.jpg"/>
+<description>
+<title>CapriCesar</title>
+Conocido como Cesar Capri
+EMAIL matiascc88@gmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>CiurluiniEugenia </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/CiurluiniEugenia.jpg"/>
+<description>
+<title>CiurluiniEugenia</title>
+Conocido como Eugenia Ciurluini
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>DeCleeneEdgar </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/DeCleeneEdgar.jpg"/>
+<description>
+<title>DeCleeneEdgar</title>
+Conocido como Edgar De Cleene
+Trabaja en SqueakRos;
+EMAIL edgardec2005@gmail.com
+FECHA NACIMIENTO 1949-05-23
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>DeckDiegoGomez </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/DeckDiegoGomez.jpg"/>
+<description>
+<title>DeckDiegoGomez</title>
+Conocido como Diego Gomez Deck
+EMAIL diegogomezdeck@consultar.com
+FECHA NACIMIENTO 1972-11-04
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>EscaladaNehuen </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/EscaladaNehuen.jpg"/>
+<description>
+<title>EscaladaNehuen</title>
+Conocido como Nehuen Escalada
+EMAIL nehuenescalada@yahoo.com.ar
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>FerroCarlos </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/FerroCarlos.jpg"/>
+<description>
+<title>FerroCarlos</title>
+Conocido como Carlos Ferro
+Trabaja en Caesar Systems;
+EMAIL ceferro@caesarsystems.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>FreudenbergRita </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/FreudenbergRita.jpg"/>
+<description>
+<title>FreudenbergRita</title>
+Conocido como Rita Freudenberg
+EMAIL rita@freudenbergs.de
+FECHA NACIMIENTO 1968-04-25
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>GimenezJuanSebastian </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/GimenezJuanSebastian.jpg"/>
+<description>
+<title>GimenezJuanSebastian</title>
+Conocido como Juan Sebastian Gimenez
+EMAIL sebygimenez03@yahoo.com.ar
+FECHA NACIMIENTO 1995-03-03
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>HernandezEvelyn </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/HernandezEvelyn.jpg"/>
+<description>
+<title>HernandezEvelyn</title>
+Conocido como Evelyn Hernandez
+EMAIL lauquen2001@hotmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>IseaNicolas </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/IseaNicolas.jpg"/>
+<description>
+<title>IseaNicolas</title>
+Conocido como Nicolas Isea
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>Janka </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/Janka.jpg"/>
+<description>
+<title>Janka</title>
+Conocido como Janka
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>JuarezLeandro </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/JuarezLeandro.jpg"/>
+<description>
+<title>JuarezLeandro</title>
+Conocido como Leandro Juarez
+EMAIL leandroo@gmail.com
+FECHA NACIMIENTO 1984-11-29
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>KonzNed </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/KonzNed.jpg"/>
+<description>
+<title>KonzNed</title>
+Conocido como Ned Konz
+FECHA NACIMIENTO 1956-01-02
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>LalicIvan </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/LalicIvan.jpg"/>
+<description>
+<title>LalicIvan</title>
+Conocido como Ivan Lalic
+EMAIL ivanlalic@gmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>LanfrancoAlejandra </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/LanfrancoAlejandra.jpg"/>
+<description>
+<title>LanfrancoAlejandra</title>
+Conocido como Alejandra Lanfranco
+Trabaja en Osde;
+EMAIL alejandra.lanfranco@osde.com.ar
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>LascanoAlfredo </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/LascanoAlfredo.jpg"/>
+<description>
+<title>LascanoAlfredo</title>
+Conocido como Alfredo Lascano
+EMAIL mlascano@frro.utn.edu.ar
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>LattaCraig </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/LattaCraig.jpg"/>
+<description>
+<title>LattaCraig</title>
+Conocido como Craig Latta
+Trabaja en Black Page Digital;
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>McIntoshJohnM </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/McIntoshJohnM.jpg"/>
+<description>
+<title>McIntoshJohnM</title>
+Conocido como John M McIntosh
+EMAIL johnmci@smalltalkconsulting.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>MichelichGiuliana </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/MichelichGiuliana.jpg"/>
+<description>
+<title>MichelichGiuliana</title>
+Conocido como Giuliana Michelich
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>MoraMilagros </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/MoraMilagros.jpg"/>
+<description>
+<title>MoraMilagros</title>
+Conocido como Milagros Mora
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>MosnerHansMartin </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/MosnerHansMartin.jpg"/>
+<description>
+<title>MosnerHansMartin</title>
+Conocido como Hans-Martin Mosner
+EMAIL hmm@heeg.de
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>MottetaRamiro </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/MottetaRamiro.jpg"/>
+<description>
+<title>MottetaRamiro</title>
+Conocido como Ramiro Motteta
+EMAIL ramox40@gmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>OviedoDavid </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/OviedoDavid.jpg"/>
+<description>
+<title>OviedoDavid</title>
+Conocido como David Oviedo
+EMAIL david@powerdma.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title> </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/.jpg"/>
+<description>
+<title></title>
+Conocido como Pearltrees
+Trabaja en Pearltrees;
+EMAIL add@pearltrees.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>RiceBrianT </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/RiceBrianT.jpg"/>
+<description>
+<title>RiceBrianT</title>
+Conocido como Brian T. Rice
+FECHA NACIMIENTO 1977-10-17
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>RizziCarla </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/RizziCarla.jpg"/>
+<description>
+<title>RizziCarla</title>
+Conocido como Carla Rizzi
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>RuizFederico </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/RuizFederico.jpg"/>
+<description>
+<title>RuizFederico</title>
+Conocido como Federico Ruiz
+EMAIL feedee_ruiz@hotmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>SanchezJuanManuel </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/SanchezJuanManuel.jpg"/>
+<description>
+<title>SanchezJuanManuel</title>
+Conocido como Juan Manuel Sanchez
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>SantucciFrancisco </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/SantucciFrancisco.jpg"/>
+<description>
+<title>SantucciFrancisco</title>
+Conocido como Francisco Santucci
+EMAIL francisco.santucci@yahoo.com.ar
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>SchwartzRandalL </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/SchwartzRandalL.jpg"/>
+<description>
+<title>SchwartzRandalL</title>
+Conocido como Randal L. Schwartz
+Trabaja en TWiT.tv;
+EMAIL merlyn@stonehenge.com
+FECHA NACIMIENTO 1961-11-22
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>ScocciaFacundo </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/ScocciaFacundo.jpg"/>
+<description>
+<title>ScocciaFacundo</title>
+Conocido como Facundo Scoccia
+Trabaja en Crucijuegos;
+EMAIL fanky10@gmail.com
+EMAIL q
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>SmithDavidA </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/SmithDavidA.jpg"/>
+<description>
+<title>SmithDavidA</title>
+Conocido como David A. Smith
+Trabaja en Lockheed Martin Global Training and Logistics;
+EMAIL davidasmith@gmail.com
+FECHA NACIMIENTO 1957-02-11
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>SuarezDavid </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/SuarezDavid.jpg"/>
+<description>
+<title>SuarezDavid</title>
+Conocido como David Suarez
+EMAIL daro119@hotmail.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>VozziFacundo </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/VozziFacundo.jpg"/>
+<description>
+<title>VozziFacundo</title>
+Conocido como Facundo Vozzi
+Trabaja en Infoil;
+EMAIL fvozzi@infoil.com.ar
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>WarthAlex </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/WarthAlex.jpg"/>
+<description>
+<title>WarthAlex</title>
+Conocido como Alex Warth
+Trabaja en Google;
+EMAIL 2534022@facebook.com
+</description> </lockup></relatedContent></listItemLockup><listItemLockup><title>ZimermanOscar </title><relatedContent><lockup><img src="${this.BASEURL}images/vCard/ZimermanOscar.jpg"/>
+<description>
+<title>ZimermanOscar</title>
+Conocido como Oscar Zimerman
+EMAIL ozimerman@gmail.com
+</description> </lockup></relatedContent></listItemLockup></section>				 		</list>					</listTemplate></document>`}
